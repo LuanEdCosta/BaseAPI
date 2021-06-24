@@ -10,6 +10,6 @@ Simple API structure for projects that use NodeJs.
 - migrations: where the database structure are created and versionated
 - helpers: functions used everywhere of the project
 
----
+## :man: Author
 
-Created with :heart: by Luan Eduardo da Costa | <luan1346@gmail.com>
+Luan Eduardo da Costa | [Follow me on Linkedin](https://www.linkedin.com/in/luaneducosta/)
